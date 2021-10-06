@@ -33,7 +33,7 @@ LOCAL_SHARED_LIBRARIES := \
     libperfmgr \
     libutils \
     pixel-power-ext-ndk_platform \
-    vendor.lineage.power-ndk_platform
+    vendor.lineage.power-V1-ndk_platform
 
 LOCAL_SRC_FILES := \
     service.cpp \
